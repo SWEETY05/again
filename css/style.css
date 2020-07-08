@@ -1,0 +1,47 @@
+body{
+  background:white;
+  margin-left: 50px;
+  background-image: url(' ../css/bg.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+
+}
+.parent{
+  color:black;
+  font-style: normal;
+font-size: 20px;
+font-family:sans-serif;
+}
+
+
+.child {
+  color:black;
+  background-color: green;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 20px;
+  /* padding: 20px; */
+   margin: auto;
+  /* width: 50%; */
+  /* margin-top:0;
+  margin-right:50px; margin-left:50px; */
+  text-align:center;
+  text-shadow:50px;
+/* text-decoration:underline; */}
+
+.items{
+display:inline;
+margin: 0 20px ;
+
+}
+a:hover{
+  background-color: white;
+  font-size:20px;
+}
+.class{
+  color: coral;
+
+}
